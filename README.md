@@ -1,3 +1,7 @@
+
+
+<img width="1366" height="768" alt="Screenshot (866)" src="https://github.com/user-attachments/assets/97dcd154-7dc5-4a5f-8d82-d8c0e7d0fdb1" />
+
 # daily_brain_challenge
 
 A new Flutter project.
